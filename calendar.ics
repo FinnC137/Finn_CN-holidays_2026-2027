@@ -3,8 +3,9 @@ VERSION:2.0
 PRODID:-//Finn//CN Holidays 2026-2027//ZH-CN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:Finn 中国节假日 2026-2027
-X-WR-CALDESC:2026 中国法定休假与调休，附 2026-2027 情人节、七夕节、重阳节。
+X-WR-CALNAME:Finn CN Holidays 2026-2027
+X-WR-CALDESC:China holidays and adjusted workdays for 2026, plus selected 2026-2027 festivals.
+X-WR-TIMEZONE:Asia/Shanghai
 BEGIN:VEVENT
 UID:2026-new-year-holiday@finn-cn-holidays
 DTSTAMP:20260508T000000Z
